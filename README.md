@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 SE Project Laundry Website - https://github.com/sut67/team08
+![image](https://github.com/user-attachments/assets/fd2cc084-71a8-44c5-977c-9397dd11469b)
+
