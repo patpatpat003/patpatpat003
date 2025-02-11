@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-SE Project - https://github.com/sut67/team08
+SE Project Laundry Website - https://github.com/sut67/team08
